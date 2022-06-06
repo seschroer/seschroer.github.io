@@ -1,10 +1,6 @@
 ## Research interests 
-<p> Language Acquisition <br>
-Motor-Social Development <br>
-Dyadic Interactions <br>
-Multisensory Learning <br>
-Visual Attention </p>
-
+<p> I study social and sensorimotor influences on early language acquistion. With my advisor, Chen Yu, my research projects have examined patterns of parent and infant behavior during social interactions, how parent-infant dyads create opportunities for real-time word learning, and how these patterns of behavior vary across different daily routines and activities. I used wearable eye trackers and motion sensors in my work, allowing me to study dyad behavior at the "micro-level". Recently, I have begun collecting data for the FIELD Project (Family-Infant Eye tracking and Language Dataset), which brings wearable eye trackers to toddler's home to study dyads in the most naturalistic environment possible.</p> 
+<p> My training has been interdisciplinary, with coursework and research experience in developmental science, animal behavior, cognitive science, and neuroscience. I have a strong interest in computational modeling and have worked with collaborators to develop models that teach us about learning mechanisms in infants. </p>
 
 ## Publications
 <p> <strong>Schroer, S. E.</strong>, & Yu, C. (2022). Looking is not enough: Multimodal attention supports the real-time learning of new words. <em> Developmental Science. </em> </p>
@@ -24,7 +20,6 @@ Visual Attention </p>
 
 <p><strong>Schroer, S. E.</strong>, Smith, L.B., & Yu, C. (2019). Examining the multimodal effects of parent speech in parent-infant interactions. <em>Proceedings of the 41st Annual Meeting of the Cognitive Science Society.</em></p>
 
-  
 ## Education & Training
 <p><strong>2020 - present: PhD Candidate in Psychology </strong><br>
   Univeristy of Texas at Austin <br>
